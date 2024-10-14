@@ -1,1 +1,2 @@
-# Portfolio-project-fullstack
+# PortfolioProject 
+Tech Stack used - HTML, CSS, Javascript
